@@ -23,3 +23,7 @@ config_api_keys_secrets.py
 # OS
 .DS_Store
 Thumbs.db
+
+# Archivos
+Career_Strategy_Doctrine.md
+ADMIN_Perfil_LinkedIn.md
